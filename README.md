@@ -19,7 +19,7 @@
 
   <tr>
     
-        🇬🇧 English - Intermediate
+        🇬🇧 English - Upper-Intermediate
         
   </tr>
 </table>
