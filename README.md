@@ -1,6 +1,29 @@
-# Hi there, I'm Tania ✌️
+<div id="header" align="center">
+
+<h1>👋🏻Hey there, I'm Tania!</h1>
+
+</div>
 
 > Frontend developer — building clean, scalable UIs with a touch of fullstack curiosity.
+
+
+### Languages :
+
+<div style="display: flex; align-items: flex-start; align: center">
+<table  align="center">
+  <tr>
+    
+        🇺🇦 Ukrainian - Native
+        
+  </tr>
+
+  <tr>
+    
+        🇬🇧 English - Intermediate
+        
+  </tr>
+</table>
+</div>
 
 ## Tech Stack
 
@@ -28,12 +51,15 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
+
 ## GitHub Stats
 
-![Tania's GitHub stats](https://github-readme-stats.vercel.app/api?username=taniavozniuk&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taniavozniuk&layout=compact&theme=dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=taniavozniuk&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taniavozniuk&theme=dark)
 
 ## Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tania-vozniuk-3192432a3)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Vozniuk_1)
+
+
